@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VoeAirlines
+build_property.ProjectDir = C:\Users\Desk\source\repos\VoeAirlines\VoeAirlines\
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Pages/AeronavePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Pages.AeronavePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AeronavePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AeronavePage.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Pages/CancelamentoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Pages.CancelamentoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CancelamentoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CancelamentoPage.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Pages/ManutencaoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Pages.ManutencaoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ManutencaoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ManutencaoPage.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Pages/PilotoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Pages.PilotoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PilotoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PilotoPage.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Pages/VooPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Pages.VooPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\VooPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\VooPage.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Desk/source/repos/VoeAirlines/VoeAirlines/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VoeAirlines.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="VoeAirlines.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:VoeAirlines.Pages"    
+    FlyoutIcon="aerovave.png">
+
+    <Shell.FlyoutHeader>
+        <Grid HeightRequest="100" BackgroundColor="DarkSlateBlue">
+            <Image Source="voeairlines.jfif"/>
+        </Grid>
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem Title="VoeAirlines" Icon="aeronave.png">
+        <ShellContent Title="Aeronave" Icon="aeronave.png"
+                      ContentTemplate="{DataTemplate local:AeronavePage}"/>
+        <ShellContent Title="Cancelamento" Icon="cancelamento.png"
+                      ContentTemplate="{DataTemplate local:CancelamentoPage}"/>
+        <ShellContent Title="Manutencao" Icon="manutencao.png"
+                      ContentTemplate="{DataTemplate local:ManutencaoPage}"/>
+        <ShellContent Title="Piloto" Icon="piloto.png"
+                      ContentTemplate="{DataTemplate local:PilotoPage}"/>
+        <ShellContent Title="Voo" Icon="voo.png"
+                      ContentTemplate="{DataTemplate local:VooPage}"/>        
+    </FlyoutItem>
+
+</Shell>
